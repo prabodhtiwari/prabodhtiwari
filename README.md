@@ -4,9 +4,9 @@ I have 5+ years of experience as a software engineer, and expertise in building 
 
 I love building things. While hard engineering problems are often intrinsically fun to tackle, I’m most attracted to solving real customer problems with a business justification.
 
-Currently, I work at [Gamezop][gamezop]. Here my responsibilities are to architect, develop, and manage scalable applications & back-end services demonstrating service-oriented architecture and secure applications development technology best practices.
+Currently, I work at [Gamezop][gamezop]. Here my responsibilities are to architect, develop, and manage scalable applications & backend services demonstrating service-oriented architecture and secure applications development technology best practices.
 
-See my LinkedIn[linkedin] profile for more career details.
+See my [LinkedIn][linkedin] profile for more career details.
 
 ## Connect with me:
 
