@@ -1,10 +1,10 @@
 ## Hi there, I'm Prabodh 👋
 
-I have 5+ years of experience as a software engineer, and expertise in building scalable backend services (API services, stream processing, and async mechanisms). I work on Golang, Node.js, PostgreSQL, Redis, Amazon Web Services.
+I have 7+ years of experience as a software engineer, and expertise in building scalable backend services (API services, stream processing, and async mechanisms). I work on Golang, Node.js, PostgreSQL, Redis, Amazon Web Services.
 
 I love building things. While hard engineering problems are often intrinsically fun to tackle, I’m most attracted to solving real customer problems with a business justification.
 
-Currently, I work at [Gamezop][gamezop]. Here my responsibilities are to architect, develop, and manage scalable applications & backend services demonstrating service-oriented architecture and secure applications development technology best practices.
+Currently, I work at Avrio. Here my responsibilities are to architect, develop, and manage scalable applications & backend services demonstrating service-oriented architecture and secure applications development technology best practices.
 
 See my [LinkedIn][linkedin] profile for more career details.
 
